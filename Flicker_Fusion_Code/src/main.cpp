@@ -1,4 +1,3 @@
-//https://circuitdigest.com/microcontroller-projects/arduino-interrupt-tutorial-with-examples
 
 #include <Arduino.h>
 // 
