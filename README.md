@@ -29,3 +29,8 @@ Open the Flicker\_Fusion\_Workspace.CODE-WORKSPACE in VSCODE
 Now compile and upload the code into teensy 3.2 board.
 
 Give try to this and enjoy.
+
+
+**Youtube link**
+
+[https://www.youtube.com/watch?v=uS5UAXEDbNI&amp;t=11s](https://www.youtube.com/watch?v=uS5UAXEDbNI&amp;t=11s)
